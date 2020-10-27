@@ -1,0 +1,12 @@
+_site/
+.DS_Store
+/.rbenv-version
+/vendor/
+/bin/
+/.bundle/
+.sass-cache/
+*.*~
+_release
+*.map
+.jekyll-metadata
+# *.resume-burger-jokes
